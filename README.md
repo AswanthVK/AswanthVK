@@ -2,7 +2,7 @@
 [![Profile views](https://komarev.com/ghpvc/?username=AswanthVK&label=Profile%20views)](https://github.com/AswanthVK)
 
 ---
-## 🔗 Connect with me
+### 🔗 Connect with me
 
 <!-- png icons from https://iconscout.com/ -->
 <a href="https://telegram.dog/AswanthVK" class="padded"><img align="left" alt="AswanthVK" width="28px" src="./res/telegram.png" /></a>
