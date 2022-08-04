@@ -1,8 +1,5 @@
-## Hi there, I'm AswanthVK
+## Hi, I'm AswanthVK
+[![Profile views](https://komarev.com/ghpvc/?username=AswanthVK&label=Profile%20views)](https://github.com/AswanthVK)
 
 ### My Stats
 ![AswanthVK's GitHub stats](https://github-readme-stats.vercel.app/api?username=AswanthVK&show_icons=true&theme=radical)
-
-
-## Profile views counter
-![Visitor Count](https://profile-counter.glitch.me/{AswanthVK}/count.svg)
