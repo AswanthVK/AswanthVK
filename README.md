@@ -4,10 +4,12 @@
 - 🌱 I’m currently learning ...
 - 📫 [Connect with me](https://telegram.dog/AswanthVK)
 ---
+### Connect with me
 <center>
 <a href="https://telegram.me/AswanthVK"><img src="https://img.icons8.com/color/50/000000/telegram-app--v2.png"></a>
 </center>
 ---
+
 ### My Stats
 ![AswanthVK's GitHub stats](https://github-readme-stats.vercel.app/api?username=AswanthVK&show_icons=true&theme=radical)
 
