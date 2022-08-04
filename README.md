@@ -7,7 +7,7 @@
 ### My Stats
 ![AswanthVK's GitHub stats](https://github-readme-stats.vercel.app/api?username=AswanthVK&show_icons=true&theme=radical)
 
-## 🛠️ Languages and tools
+### 🛠️ Languages and tools
 </br>
 <a href="https://heroku.com" class="padded" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="30" height="30"/> </a>
 <a href="https://www.postgresql.org" class="padded" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/> </a> 
