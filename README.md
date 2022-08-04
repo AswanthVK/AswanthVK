@@ -5,8 +5,7 @@
 ## 🔗 Connect with me
 
 <!-- png icons from https://iconscout.com/ -->
-
-<a href="https://telegram.dog/xditya" class="padded"><img align="left" alt="xditya" width="28px" src="./res/telegram.png" /></a>
+<a href="https://telegram.dog/AswanthVK" class="padded"><img align="left" alt="xditya" width="28px" src="./res/telegram.png" /></a>
 </br>
 
 ### My Stats
